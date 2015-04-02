@@ -1,6 +1,6 @@
 # Fresh Linux Setup
 
-Disclaimer: this is mainly for my own personal use but figured i'd share.
+**Disclaimer:** this is mainly for my own personal use but figured i'd share.
 
 This repo contains a list of software/programs I will typically install
 on a fresh linux image.  Many of the programs are related to development
@@ -20,6 +20,7 @@ fresh Linux install off the ground and ready for development.
 * git
 * git-gui
 * gnome-do
+* ubuntu-gnome-desktop
 * npm
 * tftpd
 
@@ -37,7 +38,17 @@ fresh Linux install off the ground and ready for development.
 
 ### zsh configuration
 
-Setup zsh as default shell and setup ohmyzsh
+Get ohmyzsh:
+
+```
+curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
+```
+
+Setup zsh as default shell:
+
+```
+sudo chsh -s /usr/bin/zsh <user>
+```
 
 ### Git config
 
