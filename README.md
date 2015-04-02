@@ -32,4 +32,22 @@ fresh Linux install off the ground and ready for development.
 * webstorm
 * thunderbird
 * spotify
-* 
+
+## Other stuff
+
+### zsh configuration
+
+Setup zsh as default shell and setup ohmyzsh
+
+### Git config
+
+```
+git config --global user.name "Stephen Stack"
+git config --global user.email "ss@stephenstack.com"
+git config --global core.editor emacs
+git config -- global diff.tool meld
+```
+
+### Trivial stuff
+
+* Generate SSH key and copy to GitHub
