@@ -12,6 +12,8 @@ fresh Linux install off the ground and ready for development.
 
 ## List of aptitude packages
 
+All of these packages can be install by running `apt_install.sh`.
+
 * zsh
 * terminator
 * python-pip
@@ -22,6 +24,7 @@ fresh Linux install off the ground and ready for development.
 * gnome-do
 * npm
 * tftpd
+* openjdk-7-jre
 
 ## Other programs
 
