@@ -25,6 +25,9 @@ All of these packages can be install by running `apt_install.sh`.
 * npm
 * tftpd
 * openjdk-7-jre
+* py-virtualenv
+* python-dev
+
 
 ## Other programs
 
