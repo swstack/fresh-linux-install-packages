@@ -78,6 +78,6 @@ git config -- global diff.tool meld
 
 * Generate SSH key and copy to GitHub
 
-## 4k issues
+## 4k Monitor Stuff
 
-TBD
+I fould bad text scaling in Jetbrains products and this helped "http://superuser.com/questions/614960/how-to-fix-font-anti-aliasing-in-intellij-idea-when-using-high-dpi".
