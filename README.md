@@ -77,3 +77,7 @@ git config -- global diff.tool meld
 ### Trivial stuff
 
 * Generate SSH key and copy to GitHub
+
+## 4k issues
+
+TBD
